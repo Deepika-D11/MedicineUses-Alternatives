@@ -1,0 +1,51 @@
+Medicine Name,Active Ingredients,Usage,Side Effects,Alternatives,Expiry Date
+Prednisone,Azithromycin,Asthma relief,drowsiness,Ibuprofen;Aspirin,2026-05-10
+Fluoxetine,Simvastatin,Bacterial infection,"headache, diarrhea",Ranitidine;Omeprazole,2026-02-02
+Duloxetine,Clindamycin HCl,Bacterial infection,throat irritation,Amlodipine;Hydrochlorothiazide,2025-10-15
+Simvastatin,Budesonide,Diabetes management,"dizziness, headache",Ceftriaxone;Azithromycin,2025-09-19
+Prednisone,Cetirizine,Bacterial infection,"dizziness, fatigue",Furosemide;Spironolactone,2026-03-06
+Loratadine,Cefixime,Blood pressure management,throat irritation,Omeprazole;Famotidine,2026-03-25
+Ibuprofen,Amoxicillin,Allergy relief,"drowsiness, fatigue",Sitagliptin;Linagliptin,2025-11-19
+Rosuvastatin,Ciprofloxacin HCl,Bacterial infection,throat irritation,Clarithromycin;Doxycycline,2026-02-26
+Glimepiride,Cefixime,Inflammation relief,increased urination,Prednisone;Methylprednisolone,2026-01-30
+Ramipril,Aspirin,Bacterial infection,"headache, dizziness",Sitagliptin;Metformin,2025-09-03
+Ramipril,Acetaminophen,Depression treatment,"muscle pain, headache",Losartan;Hydrochlorothiazide,2025-11-17
+Amlodipine,Clonazepam,Allergy relief,"cough, headache",Ranitidine;Omeprazole,2025-11-13
+Amlodipine,Liothyronine sodium,Asthma relief,"dizziness, headache",Azithromycin;Clarithromycin,2025-11-05
+Paracetamol,Sertraline HCl,Blood pressure management,"diarrhea, nausea",Amlodipine;Hydrochlorothiazide,2026-07-28
+Sitagliptin,Budesonide,Inflammation relief,"muscle pain, nausea",Gentamicin;Ciprofloxacin,2025-02-09
+Omeprazole,Carvedilol,Cholesterol management,"muscle pain, nausea",Sitagliptin;Metformin,2026-01-20
+Rosuvastatin,Loratadine,Asthma management,"drowsiness, fatigue",Gentamicin;Ciprofloxacin,2025-11-27
+Amoxicillin,Sertraline HCl,Acid reflux,"diarrhea, nausea",Rosuvastatin;Simvastatin,2026-01-13
+Famotidine,Ibuprofen,Allergy relief,"nausea, headache",Alprazolam;Clonazepam,2025-08-22
+Ibuprofen,Escitalopram oxalate,Asthma management,"fatigue, dizziness",Omeprazole;Famotidine,2025-11-06
+Escitalopram,Dexamethasone,Heart rate control,"drowsiness, headache",Montelukast;Salbutamol,2026-03-08
+Azithromycin,Alprazolam,Acid reflux,"diarrhea, nausea",Metoprolol;Atenolol,2025-08-26
+Fluoxetine,Gentamicin sulfate,Acid reflux,"diarrhea, nausea",Hydrocortisone;Prednisone,2025-05-17
+Loratadine,Fluoxetine HCl,Bacterial infection,"nausea, headache",Amoxicillin;Cefixime,2026-02-09
+Metformin,Escitalopram oxalate,Thyroid hormone replacement,"dizziness, headache",Paracetamol;Aspirin,2026-02-05
+Budesonide,Clarithromycin,Bacterial infection,"dizziness, fatigue",Fluoxetine;Paroxetine,2026-02-15
+Cetirizine,Amlodipine besylate,Asthma relief,drowsiness,Amoxicillin;Cefixime,2026-10-15
+Linagliptin,Amoxicillin,Anxiety treatment,"nausea, headache",Glipizide;Glyburide,2025-12-16
+Atorvastatin,Dexamethasone,Edema relief,"headache, dizziness",Metformin;Pioglitazone,2026-01-08
+Paracetamol,Omeprazole,Acid reflux,throat irritation,Levothyroxine;Liothyronine,2026-04-01
+Ceftriaxone,Clindamycin HCl,Asthma relief,"dizziness, fatigue",Azithromycin;Clarithromycin,2025-12-09
+Budesonide,Prednisone,Bacterial infection,"drowsiness, headache",Metformin;Glimepiride,2026-08-09
+Pioglitazone,Loratadine,Blood pressure management,"diarrhea, headache",Sertraline;Fluoxetine,2025-07-30
+Fluticasone,Atorvastatin calcium,Bacterial infection,increased urination,Losartan;Hydrochlorothiazide,2025-10-19
+Fluoxetine,Fluoxetine HCl,Pain relief,"dizziness, fatigue",Glipizide;Glyburide,2025-09-22
+Escitalopram,Glimepiride,Fever and pain relief,"drowsiness, nausea",Levothyroxine;Liothyronine,2026-09-25
+Aspirin,Sitagliptin phosphate,Allergy relief,"diarrhea, headache",Omeprazole;Famotidine,2026-02-16
+Pantoprazole,Dexamethasone,Inflammation relief,"headache, dizziness",Levocetirizine;Fexofenadine,2026-05-24
+Budesonide,Gentamicin sulfate,Bacterial infection,"drowsiness, headache",Amoxicillin;Doxycycline,2026-11-26
+Ranitidine,Lisinopril,Acid reflux,"dizziness, headache",Clarithromycin;Doxycycline,2026-07-20
+Montelukast,Ramipril,Diabetes management,"drowsiness, nausea",Ciprofloxacin;Levofloxacin,2026-01-25
+Amlodipine,Venlafaxine HCl,Asthma management,"diarrhea, nausea",Ibuprofen;Paracetamol,2026-05-21
+Budesonide,Fluticasone propionate,Depression treatment,"drowsiness, headache",Montelukast;Fluticasone,2026-03-23
+Furosemide,Liothyronine sodium,Acid reflux,"drowsiness, dry mouth",Sitagliptin;Metformin,2025-08-21
+Liothyronine,Alprazolam,Thyroid hormone replacement,"dizziness, fatigue",Sertraline;Fluoxetine,2026-01-28
+Amlodipine,Ibuprofen,Allergy relief,"nausea, headache",Atorvastatin;Rosuvastatin,2026-01-21
+Fluticasone,Clonazepam,Bacterial infection,"nausea, dizziness",Rosuvastatin;Simvastatin,2026-10-10
+Pantoprazole,Prednisone,Asthma relief,stomach upset,Torsemide;Bumetanide,2026-02-12
+Glimepiride,Salbutamol sulfate,Depression treatment,"headache, nausea",Sertraline;Fluoxetine,2026-04-04
+Pioglitazone,Escitalopram oxalate,Cholesterol management,"drowsiness, dry mouth",Sertraline;Fluoxetine,2026-02-15
