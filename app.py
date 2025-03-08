@@ -27,19 +27,19 @@ if medicine_name:
         # medicine usage 
         medicineusage = medicine_info.iloc[0]["Usage"]
         st.subheader("🔄 Medicine Usege")
-        st.write(f"**Usage :** {medicine_info.iloc[0]['Usage']}")
+        st.write(f"**Usage of medicine :** {medicine_info.iloc[0]['Usage']}")
         
         # expiry dates
         expirydate=medicine_info.iloc[0]["Expiry Date"]
         st.subheader("🔄 Expiry Date")
-        st.write(f"Side effects of Medicine : **{expirydate}**.")
+        st.write(f"Expiry Dates of Medicine : **{expirydate}**.")
         
         
         
         # Active ingredients
         ActiveIngredients=medicine_info.iloc[0]["Active Ingredients"]
-        st.subheader("🔄 Active Ingredients")
-        st.write(f"Side effects of Medicine : **{ActiveIngredients}**.")
+        st.subheader("🔄 Active Ingredient")
+        st.write(f"Active Ingredients of Medicine: **{ActiveIngredients}**.")
         # Expiry Date Checkstrea
         expiry_date = datetime.strptime(medicine_info.iloc[0]['Expiry Date'], "%Y-%m-%d")
         today = datetime.today()
